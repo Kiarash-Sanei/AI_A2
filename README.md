@@ -1,0 +1,1 @@
+This Assignment is about CSP and Adversarial Search and comparing and implementing them.
